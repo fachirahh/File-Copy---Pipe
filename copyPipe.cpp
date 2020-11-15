@@ -59,4 +59,4 @@ int main(int arvuments, char* arv[])
 # cat copy.txt 
 */
 
-/*reference: manojkmeena/OS-Project*/
+/*reference: https://github.com/manojkmeena/OS-Project*/
